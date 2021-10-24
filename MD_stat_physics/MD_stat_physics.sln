@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MD_stat_physics", "MD_stat_physics\MD_stat_physics.pyproj", "{6E8598B5-9C32-4C90-98D6-043B9802CF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E8598B5-9C32-4C90-98D6-043B9802CF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8598B5-9C32-4C90-98D6-043B9802CF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6F5715-637D-4DD3-A3A5-259F1B8BC5E4}
+	EndGlobalSection
+EndGlobal
